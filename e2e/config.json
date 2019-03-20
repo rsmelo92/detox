@@ -1,0 +1,6 @@
+{
+  "rootDir": "../",
+  "setupFilesAfterEnv": ["<rootDir>/e2e/init.js"],
+  "testEnvironment": "node",
+  "preset": "react-native"
+}
